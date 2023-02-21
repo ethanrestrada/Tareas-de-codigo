@@ -1,0 +1,4 @@
+﻿  RestarYSumar.cpp
+C:\Users\ETHAN\source\repos\Ejercicios_de_codigo\Condiciones_anidadas\RestarYSumar\RestarYSumar\RestarYSumar.cpp(10,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ETHAN\source\repos\Ejercicios_de_codigo\Condiciones_anidadas\RestarYSumar\RestarYSumar\RestarYSumar.cpp(13,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  RestarYSumar.vcxproj -> C:\Users\ETHAN\source\repos\Ejercicios_de_codigo\Condiciones_anidadas\RestarYSumar\Debug\RestarYSumar.exe
